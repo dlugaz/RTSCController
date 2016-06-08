@@ -1,0 +1,1 @@
+"./CC3200_LAUNCHXL.obj" "./empty.obj" "./rom_pin_mux_config.obj" "../CC3200_LAUNCHXL.cmd" -l"./configPkg/linker.cmd" -l"libc.a" -l"C:/texasinstruments/tirtos_cc32xx_2_16_01_14/products/CC3200_driverlib_1.1.0/driverlib/ccs/Release/driverlib.a" 
